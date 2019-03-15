@@ -1,0 +1,17 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container {
+    width: 60%;
+    margin: 20px auto
+}
+
+h1 {
+    text-align: center;
+    color: #00F
+}
+
+h3 {
+    color: #00F
+}
